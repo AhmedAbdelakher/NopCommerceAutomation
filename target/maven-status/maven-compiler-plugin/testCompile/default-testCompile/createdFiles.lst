@@ -1,0 +1,13 @@
+org\example\pages\P02_register.class
+org\example\pages\P03_registerConfirmation.class
+org\example\stepDefs\D04_searchStepDef.class
+org\example\stepDefs\Hooks.class
+org\example\pages\P01_dachBoard.class
+org\example\stepDefs\D01_registerStepDef.class
+org\example\stepDefs\D03_currenciesStepDef.class
+org\example\pages\P04_login.class
+org\example\testRunner\Runners.class
+org\example\pages\P05_homePage.class
+org\example\pages\PageBase.class
+org\example\stepDefs\D05_hoverCategoriesStepDef.class
+org\example\stepDefs\D02_loginStepDef.class
